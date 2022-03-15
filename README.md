@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/mateusfigueira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateusfigueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfigueira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=mateusfigueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfigueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
